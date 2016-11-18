@@ -1,4 +1,3 @@
 # mobile-solution
-mobile-solution
 
-See Wiki
+See [Wiki](https://github.com/eju-front/mobile-solution/wiki)
